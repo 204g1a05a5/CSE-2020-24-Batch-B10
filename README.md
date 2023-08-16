@@ -16,8 +16,8 @@
 
 ## Tasks to be accomplished
  <!-- Task List -->
-* [ ] Decide the tittle and idea 
-* [ ] Collect the Supporting Base Papers
-* [ ] Gather articles and relevant documents to the Project
-* [ ] prepare **PPT** for the review 0
-* [ ] Get  ready for Review 0
+* [x] Decide the tittle and idea 
+* [x] Collect the Supporting Base Papers
+* [x] Gather articles and relevant documents to the Project
+* [x] prepare **PPT** for the review 0
+* [x] Get  ready for Review 0
