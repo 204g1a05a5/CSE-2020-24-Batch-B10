@@ -10,7 +10,7 @@
  **1**| Supraja | 204g1a05a5@srit.ac.in |
  **2**| yuva kishore | 204g1a05c6@srit.ac.in |
  **3**| Tarun kumar | 204g1a05b1@srit.ac.in|
- **4**| Ravindra |204g1a0580@srit.ac.in|
+ **4**| Raveendra |204g1a0580@srit.ac.in|
 
 <br>
 
